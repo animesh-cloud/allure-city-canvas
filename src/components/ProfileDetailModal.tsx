@@ -259,7 +259,7 @@ export const ProfileDetailModal = ({ profile, isOpen, onClose }: ProfileDetailMo
                   <div className="space-y-3">
                     <div className="flex items-center justify-between">
                       <span className="text-white/70">Response Time</span>
-                      <span className="text-white">< 1 hour</span>
+                      <span className="text-white">Less than 1 hour</span>
                     </div>
                     <div className="flex items-center justify-between">
                       <span className="text-white/70">Repeat Clients</span>
